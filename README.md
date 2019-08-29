@@ -5,7 +5,7 @@ Watson Studio provides you with the environment and tools to solve your business
 
 Watson Studio is tightly integrated with the Watson Knowledge Catalog. The Watson Knowledge Catalog is a secure enterprise catalog to discover, catalog and govern your data/models with greater efficiency. The catalog is underpinned by a central repository of metadata describing all the information managed by the platform. Users will be able to share data with their colleagues more easily, regardless of what the data is, where it is stored, or how they intend to use it. In this way, the intelligent asset catalog will unlock the value held within that data across user groups—helping organizations use this key asset to its full potential.
 
-The labs in this workshop will illustrate the myriad features included in Watson Studio, and Watson Knowlege Catalog. The labs need to be completed in order, except for Lab-6 which is standalone. The datasets used for the lab contain simulated data. 
+The labs in this workshop will illustrate the myriad features included in Watson Studio, and Watson Knowlege Catalog. The labs need to be completed in order, except for Lab-7 which is standalone. The datasets used for the lab contain simulated data. 
 
 > <img src="https://github.com/bleonardb3/DS_POT_05-09/blob/master/images/DataScienceLifeCycle.png"/>
 
