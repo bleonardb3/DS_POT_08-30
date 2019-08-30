@@ -33,25 +33,25 @@ Upon completing the lab, you will know how to:
 
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/LaunchRStudio.png"/>
 
-### Step 3. Click on `2 vcpu and 8GB environment` and then click on `Launch`.
+### Step 3. Click on `Default RStudio XS (2 vCPU and 8GB RAM)` and then click on `Launch`.
 
 > <img src="https://github.com/bleonardb3/DS_POT_08-30/blob/master/Lab-8/images/RStudioEnvironment.png"/>
 
-### Step 3.  Create a new project by clicking on `File` > `New Project`.
+### Step 4.  Create a new project by clicking on `File` > `New Project`.
 
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/SelectNewProject.png"/>
 
-### Step 4.  Select `Version Control`.
+### Step 5.  Select `Version Control`.
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/SelectVersionControl.png"/>
 
-### Step 5.  Select `Git`.
+### Step 6.  Select `Git`.
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/SelectGit.png"/>
 
-### Step 6.  Fill in git repository details using the URL `https://github.com/bleonardb3/DS_POT_07-24` and press `Create Project`.
-> <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/CreateProject.png"/>
+### Step 7.  Fill in git repository details using the URL `https://github.com/bleonardb3/DS_POT_08-30` and press `Create Project`.
+> <img src="https://github.com/bleonardb3/DS_POT_08-30/blob/master/Lab-8/images/CreateProject.png"/>
 
 ### Step 7.  In the files pane in the lower right of the RStudio IDE, click `Lab-8`.
-> <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/ClickLab8.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_08-30/blob/master/Lab-8/images/ClickonLab8.png"/>
 
 ### Step 8.  Click the `connection.R` file and fill in your DB2 Warehouse on Cloud connection details.   You can find these from one of the previous labs.   Don't forget to replace "BLB" with your initials.   Save the file.
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/RStudio-lab3-connection.png"/>
