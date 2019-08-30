@@ -33,6 +33,10 @@ Upon completing the lab, you will know how to:
 
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/LaunchRStudio.png"/>
 
+### Step 3. Click on `2 vcpu and 8GB environment` and then click on `Launch`.
+
+> <img src="https://github.com/bleonardb3/DS_POT_08-30/blob/master/Lab-8/images/RStudioEnvironment.png"/>
+
 ### Step 3.  Create a new project by clicking on `File` > `New Project`.
 
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/SelectNewProject.png"/>
