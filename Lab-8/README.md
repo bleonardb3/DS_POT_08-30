@@ -50,33 +50,33 @@ Upon completing the lab, you will know how to:
 ### Step 7.  Fill in git repository details using the URL `https://github.com/bleonardb3/DS_POT_08-30` and press `Create Project`.
 > <img src="https://github.com/bleonardb3/DS_POT_08-30/blob/master/Lab-8/images/CreateProject.png"/>
 
-### Step 7.  In the files pane in the lower right of the RStudio IDE, click `Lab-8`.
+### Step 8.  In the files pane in the lower right of the RStudio IDE, click `Lab-8`.
 > <img src="https://github.com/bleonardb3/DS_POT_08-30/blob/master/Lab-8/images/ClickonLab8.png"/>
 
-### Step 8.  Click the `connection.R` file and fill in your DB2 Warehouse on Cloud connection details.   You can find these from one of the previous labs.   Don't forget to replace "BLB" with your initials.   Save the file.
+### Step 9.  Click the `connection.R` file and fill in your DB2 Warehouse on Cloud connection details.   You can find these from one of the previous labs.   Don't forget to replace "BLB" with your initials.   Save the file.
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/RStudio-lab3-connection.png"/>
 
-### Step 9.  Click the `dashConnectAndInteractInR.Rmd` file in the files pane in the lower right of the RStudio IDE. 
+### Step 10.  Click the `dashConnectAndInteractInR.Rmd` file in the files pane in the lower right of the RStudio IDE. 
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/RStudio-lab3-files.png"/>
 
-### Step 10. Run the cells in sequence from top to bottom in the notebook using the `Run current chunk` (green triangle) button in the top right of each cell.
+### Step 11. Run the cells in sequence from top to bottom in the notebook using the `Run current chunk` (green triangle) button in the top right of each cell.
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/RStudio-lab3-notebook.png"/>
 
 Consider this notebook your *data playground*.  This is the place where you can test out new ideas, connect and fuse various data sets and try out different visualizations.  If you're happy with something in your notebook, then go ahead and make it available to interact with in your app.
-### Step 11.  Click the `app.R` file in the files pane in the lower right of the RStudio IDE
+### Step 12.  Click the `app.R` file in the files pane in the lower right of the RStudio IDE
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/Clickapp.r.png"/>
 
-### Step 12.  Click the little black downward arrow next to `Run App` (green triangle) in the top right of the main panel to run the app from a new browser tab.  Select `Run External`. Click on the green triangle.  
+### Step 13.  Click the little black downward arrow next to `Run App` (green triangle) in the top right of the main panel to run the app from a new browser tab.  Select `Run External`. Click on the green triangle.  
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/ClickonRunExternal.png"/>
 
-### Step 13.  In the running app, click on some of the rows in the table and vet some of the records.
+### Step 14.  In the running app, click on some of the rows in the table and vet some of the records.
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/HumanTraffickingDisplay.png"/>
 
-### Step 14.  Interact with your app and consider ways it can be improved.
+### Step 15.  Interact with your app and consider ways it can be improved.
 
 Notice how your app reacts as you interact with it.  Try out the search in the upper right corner.  Try the filters above the various columns.  Click on the items in the pie graph legend as well as the various wedges in the pie.   Click on some of the rows in the table and save your vettings.  As the vettings are saved, they are persisted back to DB2 Warehouse (you can verify this yourself by queying your DB2 Warehouse instance).  Now, go back to your Lab-2 notebook and re-run the ML predictions and see the changes reflected there, in DB2 Warehouse and in the UI (you'll need to restart your shiny app to pick up the changes).   Or you might consider scheduling Lab-2 to run on the hour to pick up any changes....
 
-### Step 15.  [Get Inspired!](https://shiny.rstudio.com/gallery/)
+### Step 16.  [Get Inspired!](https://shiny.rstudio.com/gallery/)
 
 You now have an end-to-end skeleton application that uses vetting data, DB2 Warehouse, SparkML and DSX that you can now flesh out into something truly useful in a short amount of time without having to write a lot of code.
 
